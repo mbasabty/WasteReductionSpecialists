@@ -1,3 +1,4 @@
+# Grade 12 C.A.T PAT
 For my final Practical Assessment Task for Grade 12 Computer Applications Technology, I was a Grade 12 learner at Queen’s College Boys’ 
 High School in the Eastern Cape. I investigated jobs in the Waste and Management sector to raise awareness of environmental 
 sustainability, focusing on Waste Reduction Specialists and their role in improving waste treatment through material recovery facilities 
